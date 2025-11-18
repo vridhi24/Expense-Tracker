@@ -34,11 +34,11 @@ It allows users to record their income and expenses, visualize balance, and trac
 
 **Main Dashboard**  
 
-![Dashboard](src/assets/images/track1.png)  
+![Dashboard](images/track1.png)  
 
 **Add Transaction View**  
 
-![Add Transaction](src/assets/images/track2.png)  
+![Add Transaction](images/track2.png)  
 
 ---
 
@@ -46,7 +46,7 @@ It allows users to record their income and expenses, visualize balance, and trac
 
 Short demo of adding transactions and UI interaction:  
 
-![Demo](src/assets/images/track3.gif)  
+![Demo](images/track3.gif)  
 
 > Note: You can also embed a short video using HTML in GitHub README if needed:  
 > ```html
