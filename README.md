@@ -5,7 +5,7 @@ It allows users to record their income and expenses, visualize balance, and trac
 
 ---
 
-## 📌 Features
+##  Features
 
 - Add **Income** and **Expense** transactions  
 - Calculate and display **current balance**  
@@ -23,7 +23,7 @@ It allows users to record their income and expenses, visualize balance, and trac
 
 ---
 
-## 💻 Live Demo
+##  Live Demo
 
 🔗 [Live Site on Netlify](https://xpendly.netlify.app/)
  
@@ -42,20 +42,17 @@ It allows users to record their income and expenses, visualize balance, and trac
 
 ---
 
-## 🎥 Demo Video / GIF
+##  Demo Video / GIF
 
 Short demo of adding transactions and UI interaction:  
 
 ![Demo](images/track3.gif)  
 
-> Note: You can also embed a short video using HTML in GitHub README if needed:  
-> ```html
-> <video src="src/assets/images/track3.mp4" width="600" controls></video>
-> ```
+
 
 ---
 
-## 🚀 How to Run Locally
+##  How to Run Locally
 
 1. **Clone the repo**  
 ```bash
