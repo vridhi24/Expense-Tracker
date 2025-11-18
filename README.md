@@ -2,7 +2,7 @@
 
 A simple web application to track your **income and expenses**, visualize balance, and maintain transaction history.
 
-**Live demo:** [Expense Tracker](https://vridhi24.github.io/Expense-Tracker)
+**Live demo:** [Expense Tracker](https://app.netlify.com/projects/xpendly/)
 
 
 ## Description
