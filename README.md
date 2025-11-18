@@ -1,41 +1,63 @@
 # Expense Tracker App
 
-A simple web application to track your **income and expenses**, visualize balance, and maintain transaction history.
+A simple **Expense Tracker** web application built with **ReactJS** and **Styled Components**.  
+It allows users to record their income and expenses, visualize balance, and track transactions efficiently.
 
-**Live demo:** [Expense Tracker](https://app.netlify.com/projects/xpendly/)
+---
 
+## 📌 Features
 
-## Description
+- Add **Income** and **Expense** transactions  
+- Calculate and display **current balance**  
+- Filter transactions using **search**  
+- Responsive and clean UI  
+- Demo images and GIF available  
 
-This application helps users to:  
-- Add income and expense transactions  
-- View current balance  
-- Search and filter transactions  
+---
 
-Built with **React.js**, using **React Hooks** and **Styled Components** for styling.
+## 🛠 Tech Stack
 
+- **Frontend:** ReactJS, Styled Components  
+- **Package Management:** npm  
+- **Deployment:** GitHub Pages / Netlify  
 
-## Features
+---
 
-- Add, view, and manage income and expenses  
-- Transaction history with search functionality  
-- Responsive UI using Styled Components  
-- Simple and intuitive interface
+## 💻 Live Demo
 
+🔗 [Live Site on Netlify](https://xpendly.netlify.app/)
+ 
 
-## Tech Stack
+---
 
-- **Frontend:** React.js, HTML5, CSS3, JavaScript (ES6)  
-- **Styling:** Styled Components  
-- **Version Control:** Git & GitHub  
-- **Deployment:** GitHub Pages
+## 🖼 Screenshots
 
+**Main Dashboard**  
 
-## Installation
+![Dashboard](src/assets/images/track1.png)  
 
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/vridhi24/Expense-Tracker.git
-   npm install
-   npm start
-   nmp run build
+**Add Transaction View**  
+
+![Add Transaction](src/assets/images/track2.png)  
+
+---
+
+## 🎥 Demo Video / GIF
+
+Short demo of adding transactions and UI interaction:  
+
+![Demo](src/assets/images/track3.gif)  
+
+> Note: You can also embed a short video using HTML in GitHub README if needed:  
+> ```html
+> <video src="src/assets/images/track3.mp4" width="600" controls></video>
+> ```
+
+---
+
+## 🚀 How to Run Locally
+
+1. **Clone the repo**  
+```bash
+git clone https://github.com/vridhi24/Expense-Tracker.git
+cd Expense-Tracker
